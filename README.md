@@ -1,4 +1,4 @@
-# AUD/USD Asset Drawdown & Risk Analysis
+# AUD/USD Asset Drawdown & Correction Curve
 
 A Python-based quantitative analysis tool for tracking historical asset drawdowns, price corrections, and peak-to-trough metrics on the AUD/USD currency pair using Pandas and Matplotlib.
 
